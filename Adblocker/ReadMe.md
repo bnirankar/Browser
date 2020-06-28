@@ -21,7 +21,9 @@ Now To install Your Chrome Extension in Chrome Follow These steps :
 
 To Install same in Mozilla Firefox 
 1) Open Mozilla Firefox.
+
 2)Click On "Open Menu" three bar button below the cross in top right corner.
+
 3) Go to Add-ons or Keyboard shortcut : Ctrl+Shift+A or about:addons
 
 4)Click on Settion Button in front of manage your extensions "Tools for all add-ons". 
