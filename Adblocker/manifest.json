@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,                                             //manifest version
+    "name": "Nirankar's Adblocker",                                    //your extension name
+    "version": "1.0",                                                  // your extension version
+    "description": "Too Many Adds? Here is the Solution",              //Description
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], //permission needed for blocking
+    //we need permission for the request that we are sending to sites and that even before sending.
+    //so that we can block the receiving content
+    "background": {
+        "scripts": ["blocker.js"]//html file or js file that contain codes
+    },
+    "icons": {                                                          //icons
+        "16": "icons/gyan-16.png",
+        "48": "icons/gyan-48.png",
+        "128": "icons/gyan-128.png"
+    }
+    
+}//Nirankar Nath Singh
